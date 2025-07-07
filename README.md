@@ -15,6 +15,6 @@ A responsive personal portfolio website built using **HTML**, **CSS**, and **Jav
 - CSS
 - JavaScript
 
-### Netlify link: effervescent-dodol-9397ab.netlify.app
+### Netlify link: https://tinyurl.com/mr373wm3
 
 ---
